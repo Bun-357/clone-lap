@@ -1,0 +1,67 @@
+/* CSS Document */
+#detail-add {
+	position: absolute;
+	left: 357px;
+	top: 277px;
+	width: 470px;
+	height: 85px;
+	z-index: 1;
+}
+#detail-view {
+	position: absolute;
+	left: 200px;
+	top: 550px;
+	width: 470px;
+	height: 85px;
+	z-index: 1;
+}
+#detail-search {
+	position: absolute;
+	left: 280px;
+	top: 277px;
+	width: 470px;
+	height: 85px;
+	z-index: 1;
+}
+#detail-viewdetail {
+	position: absolute;
+	left: 280px;
+	top: 277px;
+	width: 470px;
+	height: 85px;
+	z-index: 1;
+}
+#detail-update {
+	position: absolute;
+	left: 400px;
+	top: 277px;
+	width: 470px;
+	height: 85px;
+	z-index: 1;
+}
+.font-detail {color: #00CCCC}
+#header {
+	position:absolute;
+	left:182px;
+	top:1px;
+	width:77px;
+	height:34px;
+	z-index:2;
+}
+#manu {
+	position:absolute;
+	left:370px;
+	top:224px;
+	width:619px;
+	height:28px;
+	z-index:3;
+}
+.font-manu {color: #FFFFFF}
+#Search {
+	position:absolute;
+	left:980px;
+	top:224px;
+	width:246px;
+	height:33px;
+	z-index:4;
+}
